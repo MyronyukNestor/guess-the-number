@@ -1,2 +1,5 @@
 # guess-the-number
-Мета гри полягає в тому, щоб угадати число від 1 до 20. За кожний промах у вас віднімають 1 очко. Кращий результат зберігається.
+
+github pages: https://myronyuknestor.github.io/guess-the-number/
+
+The object of the game is to guess a number from 1 to 20. For each miss, 1 point is deducted. The best result is saved.
